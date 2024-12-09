@@ -3,7 +3,7 @@ This is the source code of COLING 2025 paper BANER: Boundary-Aware LLMs for Few-
 Code is coming!
 
 If you use the code in your project, please cite the following paper:
-COLING'25 ([PDF](https://arxiv.org/pdf/2304.09421.pdf))
+COLING'25 ([PDF](https://arxiv.org/abs/2412.02228))
 ```bibtex
 @inproceedings{guo2025BANER,
   title={BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition},
