@@ -2,7 +2,7 @@
 This is the source code of COLING 2025 paper BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition.
 
 ## What is BANER 👀
-This paper proposes a boundary-aware contrastive learning strategy to enhance the LLM’s ability to perceive entity boundaries for generalized entity spans. Additionally, BANER utilize LoRAHub to align information from the target domain to the source domain, thereby enhancing adaptive cross-domain classification capabilities![image](overall.png)
+This paper proposes a boundary-aware contrastive learning strategy to enhance the LLM’s ability to perceive entity boundaries for generalized entity spans. Additionally, BANER utilize LoRAHub to align information from the target domain to the source domain, thereby enhancing adaptive cross-domain classification capabilities![image](framework.pdf)
 
 ### Local Setup
 
