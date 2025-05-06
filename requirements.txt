@@ -1,6 +1,7 @@
 accelerate
 appdirs
 loralib
+lorahub
 bitsandbytes
 black
 black[jupyter]
